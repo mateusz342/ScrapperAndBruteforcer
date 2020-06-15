@@ -1,0 +1,2 @@
+First scrap username and possible passwords from Website, then bruteforce login page (with GET request and Authentication Basic).
+Uses requests and BeutifulSoup libraries.
